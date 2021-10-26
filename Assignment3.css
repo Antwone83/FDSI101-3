@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    }
+    body{
+    background-color: rgb(163, 163, 163);
+    font-family:arial;
+}
+p{
+    line-height:2;
+    font-size:16px;
+    margin:20px;
+}
+header{
+background-color:rgb(14, 28, 105);
+text-align: center;
+height:124px;
+padding:20px;
+}
+.subtitle{
+    text-align: center;
+    margin: 30px;
+    font-weight: 400;
+}
+footer{
+text-align: center;
+}
+.menu{
+    color:thistle;
+    text-decoration:none;
+    text-shadow: 2px 2px black;
+    margin-right: 20px;
+}
+
+ul,ol{
+    margin-left:10px;
+}
+ul.projects{
+    background-color: rgb(121, 122, 122);
+    padding: 10px;
+}
+ul li{
+background-color:rgb(14, 28, 105);
+margin:5px;
+padding:5px;
+}
+
+ol{
+    background-color: rgb(51, 48, 216);
+    margin: 10px;
+    padding: 15px;  
+    color: blanchedalmond;
+}
+
+
+
+ol li{
+    background-color:rgb(14, 28, 105);
+    margin:5px;
+    padding:5px;  
+}
